@@ -1,2 +1,2 @@
 # aula
-<h1>seja benvindo</h1>
+<h1>seja bemvindo</h1>
