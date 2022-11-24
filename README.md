@@ -1,15 +1,23 @@
-
-    <style>
+ <style>
         h1{
-            color: black;
+            color: rgb(240, 15, 15);
             font-size: 60px;
             font-family: cursive;
+        }
+        h2{
+            color: brown;
+            font-size: 54px;
+        }
+        .tela{
+            background-color: black;
         }
 
     </style>
 </head>
 <body>
+    <center>
+        <div class="tela">
        <h1>copa do mundo</h1>
-    
-</body>
-</html>
+          <br><br>
+               <h2> fase de grupos</h2>
+                   <br>
