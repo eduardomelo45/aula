@@ -1,0 +1,23 @@
+body{
+    font-size: 70px;
+    background-image: url(https://images2.alphacoders.com/127/1276415.jpg);
+    background-size: cover;
+    color: black;
+    font-family: monospace;
+}
+h1{
+color: crimson;   
+ font-size: 90px;
+    font-family: sans-serif;
+}
+h2{
+color: black;
+    font-size: 62px;
+}
+h4{
+    color: black;
+    font-size: 69px;
+}
+p{
+    color: blueviolet;
+}
